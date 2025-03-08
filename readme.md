@@ -201,7 +201,7 @@ impl RangeProof {
 
 
 ### 4. 发币
-*自行见文档进行自我完善与补充，本项目不提供完整发币代码*
+*自行见**项目文档**进行自我完善与补充，本项目不提供完整发币代码*
 
 示例代码：
 ```rust
@@ -243,9 +243,9 @@ impl NodeDiscovery {
 
 ## 详细文档
 
-- **B1 详细文档**：请进入 [b1/README.md](b1/README.md) 查看。
-- **B2 详细文档**：请进入 [b2/README.md](b2/README.md) 查看。
-- **B3 详细文档**：请进入 [b3/README.md](b3/README.md) 查看。
+- **B1 详细文档**：请进入 [B1/readme.md](B1/readme.md) 查看。
+- **B2 详细文档**：请进入 [B2/readme.md](B2/readme.md) 查看。
+- **B3 详细文档**：请进入 [B3/readme.md](B3/readme.md) 查看。
 
 项目实际展示结果截图见产品说明pdf
 
